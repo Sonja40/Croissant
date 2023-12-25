@@ -9,10 +9,9 @@ p {
 }
 
 .croissant-picture {
+  display: block;
   max-width: 100%;
   border-radius: 10px;
-  display: block;
-  margin: 20px auto;
 }
 
 footer {
