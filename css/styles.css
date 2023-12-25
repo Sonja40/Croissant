@@ -3,10 +3,20 @@ body {
 }
 
 h1,
-p,
-footer {
+p {
   text-align: center;
   display: block;
+}
+
+.the-picture {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
+
+footer {
+  text-align: center;
 }
 
 footer a {
