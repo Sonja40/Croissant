@@ -1,6 +1,9 @@
 body {
   background: #f1eacd;
 }
+h1 {
+  font-size: 48px;
+}
 
 h1,
 p {
